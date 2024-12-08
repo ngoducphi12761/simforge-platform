@@ -35,7 +35,7 @@
 ### Architecture
 
 #### Monolithic Architecture
-
+![Picture3](https://github.com/user-attachments/assets/8c568da0-3653-4ce8-8c31-5e36c7913ec6)
 **Technologies Used**:
 - **Back-end**:
   - Spring Boot, Spring MVC, Spring Data JPA, OKTA Spring Security, MapStruct
@@ -50,7 +50,8 @@
 ---
 
 ### ER Diagram
-![Picture3](https://github.com/user-attachments/assets/8c568da0-3653-4ce8-8c31-5e36c7913ec6)
+![Picture4](https://github.com/user-attachments/assets/8b498998-05b1-4ce4-850c-34bf200a83ef)
+
 
 ---
 
@@ -80,3 +81,7 @@
 3. Create a JAR file (ensure to comment out database information in `application.properties` to avoid deployment issues):
    ```bash
    mvn clean package -DskipTests
+
+![Picture5](https://github.com/user-attachments/assets/f7df2747-bbfe-415c-8705-e6d6a848f970)
+![Picture6](https://github.com/user-attachments/assets/fec3adcc-3911-4553-8ba4-8d461a70423f)
+![Picture7](https://github.com/user-attachments/assets/9fd9a95e-5dac-4672-81c9-c91e9d7ee64f)
