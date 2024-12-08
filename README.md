@@ -25,10 +25,10 @@
 **Include UML diagrams** such as use case diagrams, class diagrams, or sequence diagrams as applicable.
 
 #### Frontend Class Diagrams
-*(Include your diagrams here)*
+![Picture1](https://github.com/user-attachments/assets/1121cda4-cc71-4bde-90d2-d9e51a1e1541)
 
 #### Backend Class Diagrams
-*(Include your diagrams here)*
+![Picture2](https://github.com/user-attachments/assets/ac630b43-0536-4d00-9279-a2dfe1b59ec7)
 
 ---
 
@@ -50,7 +50,7 @@
 ---
 
 ### ER Diagram
-*(Include your ER diagram here)*
+![Picture3](https://github.com/user-attachments/assets/8c568da0-3653-4ce8-8c31-5e36c7913ec6)
 
 ---
 
