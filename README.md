@@ -81,7 +81,22 @@
 3. Create a JAR file (ensure to comment out database information in `application.properties` to avoid deployment issues):
    ```bash
    mvn clean package -DskipTests
+4. Build docker image for back-end API
+   ```bash
+   docker build -t phiducngo/cfd-fea-api:1.0.4 .
+5. Push back-end image to Docker Hub (https://hub.docker.com/)
+   ```bash
+   docker push phiducngo/cfd-fea-api:1.0.4
+6. Create Web App
+   Go to App Services, create Web App and select Publish as Container.
+   ![image](https://github.com/user-attachments/assets/5e91f51d-9e46-476f-8683-9fa99d42674e)
 
+**In Deployment -> Deployment Center, configure**
+
+  - **Container type: Docker Compose**
+
+  - **Registry source: Docker Hub**
+  - And upload the Docker compose file prepared into Config textbox
 ![Picture5](https://github.com/user-attachments/assets/f7df2747-bbfe-415c-8705-e6d6a848f970)
 ![Picture6](https://github.com/user-attachments/assets/fec3adcc-3911-4553-8ba4-8d461a70423f)
 ![Picture7](https://github.com/user-attachments/assets/9fd9a95e-5dac-4672-81c9-c91e9d7ee64f)
