@@ -1,9 +1,9 @@
 # PROJECT REPORT
 
-## Project Title: Development of an E-Commerce Platform for CFD and FEA Solutions
+## Project Title: SimForge Platform – A Web-Based Marketplace for CFD and FEA Engineering Solutions
 
 ### Problem Statement
-**Objective**: To design and implement an e-commerce platform that caters specifically to professionals, researchers, and organizations in the fields of Computational Fluid Dynamics (CFD) and Finite Element Analysis (FEA). The platform will provide a user-friendly interface to purchase, download, and manage licenses for CFD and FEA software, tools, and resources.
+**Objective**: To design and implement SimForge Platform, a full-stack e-commerce web application tailored for the distribution of ready-to-use CFD and FEA engineering solutions. The platform serves as a bridge between engineering experts and clients across aerospace, automotive, energy, and manufacturing sectors, providing instant access to high-value simulation deliverables.
 
 ### Objective Analysis
 
